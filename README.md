@@ -1,1 +1,1 @@
-[[https://github.com/username/repository/blob/master/img/octocat.png|alt=octocat]]
+[[https://raw.githubusercontent.com/ali-kaptanoglu/github-komutlar/main/github.jpg|alt=t]]
